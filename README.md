@@ -1,7 +1,7 @@
 # Bild-veraendern
 Erweiterung für >Nemo&lt; um Bilddateien zu konvertieren und/oder die Dateigröße zu verkleinern.
 Die Konvertierung und Reduzierung der Dateigröße kann mit dem Programm:
->Bild verändern<
+Bild verändern
 durchgefürt werden.
 Das Programm ist eine Erweiterung für den Dateimanager >Nemo< und wird als Nemo-action eingebunden. Der Start des Programmes erfolgt nach Markierung einer oder mehrerer Bilddateien aus dem Kontextmenü von >Nemo<.
 Dieses Nemo Action funktioniert nur mit dem Dateimanager Nemo (Nemo ist beim Desktop Cinnamon der Standard) 
@@ -25,10 +25,16 @@ Das Script zu Installation (Install.sh) entweder im Terminal oder mit doppelklic
 Das Script führt durch die Installation und die Schritte sind selbsterklärend.
 
 Verarbeitet werden die folgenden Dateiformate:
+
 jpg:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben->Ja< 
+
 jepg:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben->Ja< 
+
 webp:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben->Ja< 
+
 png:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben->Nein< *
+
 tif:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben->Nein *
+
 HEIC(optional): Wird immer verlustfrei nach *.png konvertiert.
 *) Bei *.png und *.tif ist beim überschreiben nur die Skalierung wirksam eine Komprimierung mit der Qualitätseinstellung ist nicht wirksam.
