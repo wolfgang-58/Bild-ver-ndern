@@ -19,6 +19,8 @@ Die benötigten Scripte und Dateien für - Bild verändern - sind:
 - >install< zum installieren des Programms
 - >ins_cmd.sh< das eigentliche Installationscript
 - >Thema< in diesem Ordner sind GTK-Themen für das Programmscript.
+
+
 Für die Installation liegt dem Paket eine >install.sh< bei, mit dieser ist die Installation schnell erledigt.
 Auch eine >Deinstallation< ist damit möglich.
 Das Script zu Installation (Install.sh) entweder im Terminal oder mit doppelklick & ausführen starten. 
