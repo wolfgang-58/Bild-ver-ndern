@@ -39,4 +39,5 @@ png:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben
 tif:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben->Nein *
 
 HEIC(optional): Wird immer verlustfrei nach *.png konvertiert.
+
 *) Bei *.png und *.tif ist beim überschreiben nur die Skalierung wirksam eine Komprimierung mit der Qualitätseinstellung ist nicht wirksam.
