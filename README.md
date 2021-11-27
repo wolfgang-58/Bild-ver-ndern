@@ -23,7 +23,7 @@ Die benötigten Scripte und Dateien für - Bild verändern - sind:
 
 Für die Installation liegt dem Paket eine >install.sh< bei, mit dieser ist die Installation schnell erledigt.
 Auch eine >Deinstallation< ist damit möglich.
-Das Script zu Installation (Install.sh) entweder im Terminal oder mit doppelklick & ausführen starten. 
+Das Script für die Installation (Install.sh) entweder im Terminal oder mit doppelklick & ausführen starten. 
 Das Script führt durch die Installation und die Schritte sind selbsterklärend.
 
 Verarbeitet werden die folgenden Dateiformate:
