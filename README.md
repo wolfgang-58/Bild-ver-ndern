@@ -1,4 +1,4 @@
-# Bild verändern
+# Bild verändern 2.22
 Erweiterung für >Nemo&lt; um Bilddateien zu konvertieren und/oder die Dateigröße zu verkleinern.
 Die Konvertierung und Reduzierung der Dateigröße kann mit dem Programm:
 Bild verändern
