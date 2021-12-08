@@ -27,29 +27,52 @@ Im Terminal:
 Für die Installation liegt dem gepacktem Paket eine >install.sh< bei, mit dieser ist die Installation schnell erledigt.
 Auch eine >Deinstallation< ist damit möglich.
 Das Script entweder im Terminal oder mit doppelklick & ausführen starten.
+
 Das Script führt durch die Installation und die Schritte sind selbsterklärend.
+
 Eine manuellen Installation ist nicht möglich!
+
 Höhe und Breite anpassen
+
 Bei einigen Themen und einer größeren Schrift kann es zu Problemen mit der Darstellung kommen. Dann müssen Höhe und Breite des Programmfensters angepasst werden
-Höhe=300, Breite=300 sind die Standardvorgaben
-Damit wird das Programmfenster im kleinstmöglichen Format dargestellt.
+Höhe=300, Breite=300 sind die Standardvorgaben damit wird das Programmfenster im kleinstmöglichen Format dargestellt.
+
 Eine Einstellung von Höhe und Breite ist während der Installation möglich.
+
 Betriebsarten
+
 Die Betriebsart >action< oder >script< wird während der Installation festgelegt.
+
 Grundsätzlich kann -Bild veändern- in zwei Betriebsarten ausgeführt werden.
+
 Dies ist zum einen die Betriebsart -action- und zum anderen die Betriebsart -script-.
-Bei der Betriebsart -action- steht -Bild verändern- im Kontextmenü unmittelbar zu Verfügung. 
+
+Bei der Betriebsart -action- steht -Bild verändern- im Kontextmenü unmittelbar zu Verfügung.
+
 Bei der Betriebsart -script- muss -Bild verändern- über den Kontexmenüpunkt -Scripte- aufgerufen werden.
+
 Die Betriebsarten sind in ihrer Funktionalität völlig gleichwertig.
+
 Die Betriebsart wird während der Installation festgelegt.
+
 Verarbeitet werden die folgenden Dateiformate:
+
 jpg:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben ->Ja< 
+
 jepg:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben ->Ja< 
+
 bmp:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben ->Ja< 
+
 gif:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben ->Ja< 
-webp:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben ->Ja< 
+
+webp:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben ->Ja<
+
 png:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben ->Nein< *
+
 tif:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben ->Nein< *
+
 tiff:	Skalierung und Qualität frei wählbar - Konvertierung ->Ja< überschreiben ->Nein< *
+
 HEIC(optional): Wird immer verlustfrei nach *.png konvertiert.
+
 *) Bei *.png *.tif und *.tiff ist beim überschreiben nur die Skalierung wirksam, eine Komprimierung mit der Qualitätseinstellung ist nicht wirksam.
