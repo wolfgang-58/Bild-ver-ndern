@@ -26,6 +26,7 @@ Im Terminal:
 
 Für die Installation liegt dem gepacktem Paket eine >install.sh< bei, mit dieser ist die Installation schnell erledigt.
 Auch eine >Deinstallation< ist damit möglich.
+
 Das Script entweder im Terminal oder mit doppelklick & ausführen starten.
 Das Script führt durch die Installation und die Schritte sind selbsterklärend.
 Eine manuellen Installation ist nicht möglich!
