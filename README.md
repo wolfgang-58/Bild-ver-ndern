@@ -1,11 +1,6 @@
 # Bild verändern 2.22
-Erweiterung für >Nemo&lt; um Bilddateien zu konvertieren und/oder die Dateigröße zu verkleinern.
-Die Konvertierung und Reduzierung der Dateigröße kann mit dem Programm:
-Bild verändern
-durchgefürt werden.
-Das Programm ist eine Erweiterung für den Dateimanager >Nemo< und wird als Nemo-action eingebunden. Der Start des Programmes erfolgt nach Markierung einer oder mehrerer Bilddateien aus dem Kontextmenü von >Nemo<.
-Dieses Nemo Action funktioniert nur mit dem Dateimanager Nemo (Nemo ist beim Desktop Cinnamon der Standard) 
-Bei Linux Mint Mate oder XFCE müsste also Nemo nachinstalliert werden (ACHTUNG das ist nicht getestet)
+Dieses Script funktioniert mit den Dateimanagern Nemo, Caja, Nautilus und Thunar.
+Damit - Bild verändern - ordentlich arbeiten kann braucht es einige installierte Programme auf dem Rechner:
 
 Damit - Bild verändern - ordentlich arbeiten kann braucht es einige installierte Programme auf dem Rechner:
 - >Linux Mint Cinnamon< (bringt alles mit) ansonsten muss >Nemo< installiert sein.
@@ -16,6 +11,7 @@ Damit - Bild verändern - ordentlich arbeiten kann braucht es einige installiert
 Die benötigten Scripte und Dateien für - Bild verändern - sind:
 - >bildveraendern.sh< Programmscript
 - >bildveraendern.nemo_action< zum einbinden und Steuerung des Scriptes in >Nemo<
+- >xfce-action.txt< zum einbinden und Steuerung des Scriptes in >xfce<
 - >install.sh< zum installieren des Programms
 - >inst_cmd.sh< das eigentliche Installationscript
 - >Thema< in diesem Ordner sind GTK-Themen für das Programmscript.
@@ -40,16 +36,23 @@ Höhe=300, Breite=300 sind die Standardvorgaben damit wird das Programmfenster i
 Eine Einstellung von Höhe und Breite ist während der Installation möglich.
 
 Betriebsarten
-
-Die Betriebsart >action< oder >script< wird während der Installation festgelegt.
-
-Grundsätzlich kann -Bild veändern- in zwei Betriebsarten ausgeführt werden.
+Nur beim Dateimanager -Nemo- steht -Bild veändern- in zwei Betriebsarten zur Verfügung
 
 Dies ist zum einen die Betriebsart -action- und zum anderen die Betriebsart -script-.
 
-Bei der Betriebsart -action- steht -Bild verändern- im Kontextmenü unmittelbar zu Verfügung.
+Bei der Betriebsart -action- steht -Bild verändern- direkt im Kontextmenü  zur Verfügung. 
 
-Bei der Betriebsart -script- muss -Bild verändern- über den Kontexmenüpunkt -Scripte- aufgerufen werden.
+Bei der Betriebsart -script- muss -Bild verändern- über den Kontextmenüpunkt -Scripte- aufgerufen werden.
+
+Für die Dateimanager: Caja, Nautilus und Thunar steht nur die Betriebsart -script-  zur Verfügung.
+
+Aufruf von -Bild veändern- für die folgenden Dateimanager:
+
+Caja - im Kontextmenü über -Scripte-
+
+Nautilus - im Kontextmenü über -Scripte-
+
+Thunar - direkt im Kontextmenü
 
 Die Betriebsarten sind in ihrer Funktionalität völlig gleichwertig.
 
