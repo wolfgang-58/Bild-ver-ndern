@@ -36,6 +36,7 @@ Höhe=300, Breite=300 sind die Standardvorgaben damit wird das Programmfenster i
 Eine Einstellung von Höhe und Breite ist während der Installation möglich.
 
 Betriebsarten
+
 Nur beim Dateimanager -Nemo- steht -Bild veändern- in zwei Betriebsarten zur Verfügung
 
 Dies ist zum einen die Betriebsart -action- und zum anderen die Betriebsart -script-.
