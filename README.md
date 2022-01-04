@@ -94,9 +94,6 @@ Die Betriebsarten sind in ihrer Funktionalität völlig gleichwertig.
 
 Aufruf des Programms, es können eine oder mehrere Bilddateien unterschiedlicher Formate im Dateimanager markiert werden. Nach betätigen der >rechten Maustaste< ist - Bild verändern - im Kontextmenü direkt oder über Scripte auswählbar.
 Nach dem Aufruf steht das Programmfenster sofort zur Verfügung, es besteht die Möglichkeit über die Einstellungen die Startwerte festzulegen.
-Eine Beschreibung detailierte befindet sich in der Datei:
-
-_Beschreibung -Bild veränder-Version 2.22.pdf_
 
 **Bilddateiformate**
 
@@ -113,5 +110,10 @@ Von -Bild verändern- werden die folgenden Dateiformate verarbeitet:
 - HEIC(optional): Wird immer verlustfrei nach *.png konvertiert.
 
 *) Bei *.png *.tif und *.tiff ist beim überschreiben nur die Skalierung wirksam, eine Komprimierung mit der Qualitätseinstellung ist nicht wirksam.
+
+
+Eine detailierte Beschreibung befindet sich in der Datei:
+
+_Beschreibung -Bild veränder-Version 2.22.pdf_
 
 
