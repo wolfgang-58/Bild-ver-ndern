@@ -98,7 +98,8 @@ die Dateien in eine x.tar.gz Datei zu packen. Für die PDF Dateien steht ein ver
 
 Nach dem Aufruf steht das Programmfenster sofort zur Verfügung, es besteht die Möglichkeit über die Einstellungen die Startwerte des Programmes festzulegen.
 
-![Programmfenster](https://user-images.githubusercontent.com/77605776/148032809-64a1a045-cac5-4ea7-b5d3-80ccf0651e02.png)
+![Programm- Einstellungsfenster](https://user-images.githubusercontent.com/77605776/148033840-fae77103-671b-4323-bb61-939325390777.png)
+
 
 Von -Bild verändern- werden die folgenden Dateiformate verarbeitet:
 
@@ -118,5 +119,3 @@ Von -Bild verändern- werden die folgenden Dateiformate verarbeitet:
 Eine detailierte Beschreibung befindet sich in der Datei:
 
 _Beschreibung -Bild veränder-Version 2.22.pdf_
-
-
