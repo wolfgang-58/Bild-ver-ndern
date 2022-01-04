@@ -37,7 +37,7 @@ _./install.sh -simple_
 Das Script führt durch die Installation und die Schritte sind selbsterklärend.
 Eine manuellen Installation ist nicht möglich!
 
-Folgende Einstellungen können während der Installation festgelegt werden:
+**Folgende Einstellungen können während der Installation festgelegt werden:**
 
 **Höhe und Breite anpassen**
 
