@@ -37,15 +37,17 @@ _./install.sh -simple_
 Das Script führt durch die Installation und die Schritte sind selbsterklärend.
 Eine manuellen Installation ist nicht möglich!
 
-Höhe und Breite anpassen
+**Höhe und Breite anpassen**
+
 Bei einigen Themen und einer größeren Schrift kann es zu Problemen mit der Darstellung kommen. Dann müssen Höhe und Breite des Programmfensters angepasst werden
 Höhe=300, Breite=300 sind die Standardvorgaben damit wird das Programmfenster im kleinstmöglichen Format dargestellt.
 
-Festlegen der Position des Programmfensters
+**Festlegen der Position des Programmfensters**
+
 Wird >Bild verändern< über das Kontextmenü aufgerufen kann die Position des Programmfenster festgelegt werden.
 Es besteht die Möglichkeit das Programmfenster an der Mausposition oder in der Bildschirmmitte zu platzieren
 
-Festlegen der Betriebsart
+**Festlegen der Betriebsart**
  
 Die Betriebsart >action< oder >script< wird während der Installation festgelegt. 
 Folgende Betriebsarten können gewählt werden:
