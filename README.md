@@ -93,7 +93,9 @@ Die Betriebsarten sind in ihrer Funktionalität völlig gleichwertig.
 **Verwendung**
 
 Aufruf des Programms, es können eine oder mehrere Bilddateien unterschiedlicher Formate im Dateimanager markiert werden. Nach betätigen der >rechten Maustaste< ist - Bild verändern - im Kontextmenü direkt oder über Scripte auswählbar.
-Nach dem Aufruf steht das Programmfenster sofort zur Verfügung, es besteht die Möglichkeit über die Einstellungen die Startwerte festzulegen.
+Neben der Konvertierung der Bilddateien ist es auch möglich aus den Dateien eine PDF-Datei zu erzeugen oder
+die Dateien in eine x.tar.gz Datei zu packen. Für die PDF Dateien steht ein verlustbehaftete oder verlustfrei Option zur Verfügung. Die verlustbehaftete Version enthält eine Lese- Inhaltsverzeichnis. 
+Nach dem Aufruf steht das Programmfenster sofort zur Verfügung, es besteht die Möglichkeit über die Einstellungen die Startwerte des Programmes festzulegen.
 
 **Bilddateiformate**
 
