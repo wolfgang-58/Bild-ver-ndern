@@ -98,9 +98,7 @@ die Dateien in eine x.tar.gz Datei zu packen. Für die PDF Dateien steht ein ver
 
 Nach dem Aufruf steht das Programmfenster sofort zur Verfügung, es besteht die Möglichkeit über die Einstellungen die Startwerte des Programmes festzulegen.
 
-![Programmfenster](https://www.linuxmintusers.de/MGalleryItem.php?id=5936)
-
-**Bilddateiformate**
+![Programmfenster](https://user-images.githubusercontent.com/77605776/148032809-64a1a045-cac5-4ea7-b5d3-80ccf0651e02.png)
 
 Von -Bild verändern- werden die folgenden Dateiformate verarbeitet:
 
