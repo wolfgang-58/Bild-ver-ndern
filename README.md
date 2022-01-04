@@ -41,6 +41,17 @@ Eine manuellen Installation ist nicht möglich!
 
 Fehlende externe Programm können während der Installation installiert werden.
 
+**Auswahl des Dateimanagers**
+- Nemo
+- Caja
+- Thunar
+- Nautilus
+
+**Auswahl des Style**
+- flächig Mintfarben
+- Rand Mintfarben
+- Desktop Einstellunegn
+
 **Höhe und Breite anpassen**
 
 Bei einigen Themen und einer größeren Schrift kann es zu Problemen mit der Darstellung kommen. Dann müssen Höhe und Breite des Programmfensters angepasst werden
@@ -63,8 +74,6 @@ Caja:				    script
 Nautilus:			    script
 
 Thunar:			        script
-
-Betriebsarten:
 
 Nur beim Dateimanager -Nemo- steht -Bild veändern- in zwei Betriebsarten zur Verfügung
 Dies ist zum einen die Betriebsart -action- und zum anderen die Betriebsart -script-.
