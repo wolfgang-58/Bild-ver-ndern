@@ -31,7 +31,9 @@ _./install.sh_
 
 Sollte die Installation nicht starten ist eventuell das Terminalprogramm nicht mit dem Desktop kompatibel.
 In diesem Fall kann die Installation, unter jedem Desktop, mit folgendem Befehl gestartet werden:
-./install.sh -simple
+
+_./install.sh -simple_
+
 Das Script führt durch die Installation und die Schritte sind selbsterklärend.
 Eine manuellen Installation ist nicht möglich!
 
