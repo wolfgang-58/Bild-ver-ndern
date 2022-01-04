@@ -37,6 +37,8 @@ _./install.sh -simple_
 Das Script führt durch die Installation und die Schritte sind selbsterklärend.
 Eine manuellen Installation ist nicht möglich!
 
+Folgende Einstellungen können während der Installation festgelegt werden:
+
 **Höhe und Breite anpassen**
 
 Bei einigen Themen und einer größeren Schrift kann es zu Problemen mit der Darstellung kommen. Dann müssen Höhe und Breite des Programmfensters angepasst werden
@@ -51,19 +53,29 @@ Es besteht die Möglichkeit das Programmfenster an der Mausposition oder in der 
  
 Die Betriebsart >action< oder >script< wird während der Installation festgelegt. 
 Folgende Betriebsarten können gewählt werden:
+
 Nemo:		action		script
-Caja:				      script
+
+Caja:				    script
+
 Nautilus:			    script
-Thunar:			      script
-Betriebsarten
+
+Thunar:			        script
+
+Betriebsarten:
+
 Nur beim Dateimanager -Nemo- steht -Bild veändern- in zwei Betriebsarten zur Verfügung
 Dies ist zum einen die Betriebsart -action- und zum anderen die Betriebsart -script-.
 Bei der Betriebsart -action- steht -Bild verändern- direkt im Kontextmenü  zur Verfügung. 
 Bei der Betriebsart -script- muss -Bild verändern- über den Kontextmenüpunkt -Scripte- aufgerufen werden.
 Für die Dateimanager: Caja, Nautilus und Thunar steht nur die Betriebsart -script-  zur Verfügung .
 Aufruf von -Bild veändern- für die folgenden Dateimanager:
+
 Caja - im Kontextmenü über -Scripte-
+
 Nautilus - im Kontextmenü über -Scripte-
+
 Thunar - direkt im Kontextmenü
+
 Die Betriebsarten sind in ihrer Funktionalität völlig gleichwertig.
 Die Betriebsart wird während der Installation festgelegt.
