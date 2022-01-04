@@ -3,10 +3,11 @@ Dieses Script funktioniert mit den Dateimanagern Nemo, Caja, Nautilus und Thunar
 Damit - Bild verändern - ordentlich arbeiten kann braucht es einige installierte Programme auf dem Rechner:
 
 Damit - Bild verändern - ordentlich arbeiten kann braucht es einige installierte Programme auf dem Rechner:
-- >ImageMagick< Softwarepaket zur Erstellung und Bearbeitung von Rastergrafiken.
-- >yad< (Yet Another Dialog) ermöglicht das Erzeugen grafischer Dialoge.
-- >img2pdf< zum erzeugen von PDF-Dateien
-- >libheif-example< um Apple HEIC Fotos zu konvertieren 
+- **ImageMagick** Softwarepaket zur Erstellung und Bearbeitung von Rastergrafiken.
+- **yad** (Yet Another Dialog) ermöglicht das Erzeugen grafischer Dialoge.
+- **img2pdf** zum erzeugen von PDF-Dateien
+- **libheif-example** um Apple HEIC Fotos zu konvertieren
+
 
 Die benötigten Scripte und Dateien für - Bild verändern - sind:
 - >bildveraendern.sh< Programmscript
