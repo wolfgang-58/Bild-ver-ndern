@@ -38,6 +38,7 @@ Das Script führt durch die Installation und die Schritte sind selbsterklärend.
 Eine manuellen Installation ist nicht möglich!
 
 **Folgende Einstellungen können während der Installation festgelegt werden:**
+Fehlende externe Programm können während der Installation installiert werden.
 
 **Höhe und Breite anpassen**
 
