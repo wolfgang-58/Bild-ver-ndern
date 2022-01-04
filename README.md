@@ -24,7 +24,7 @@ Für die Installation liegt dem gepacktem Paket eine >install.sh< bei, mit diese
 Auch eine >Deinstallation< ist damit möglich.
 Das Script entweder im Terminal oder mit doppelklick & ausführen starten.
 Unter >xfce<muss die >install.sh< im Terminal gestartet werden:
->>./install.sh<<
+./install.sh
 Sollte die Installation nicht starten ist eventuell das Terminalprogramm nicht mit dem Desktop kompatibel.
 In diesem Fall kann die Installation, unter jedem Desktop, mit folgendem Befehl gestartet werden:
 >>./install.sh -simple<<
@@ -40,6 +40,7 @@ Wird >Bild verändern< über das Kontextmenü aufgerufen kann die Position des P
 Es besteht die Möglichkeit das Programmfenster an der Mausposition oder in der Bildschirmmitte zu platzieren
 
 Festlegen der Betriebsart
+ 
 Die Betriebsart >action< oder >script< wird während der Installation festgelegt. 
 Folgende Betriebsarten können gewählt werden:
 Nemo:		action		script
