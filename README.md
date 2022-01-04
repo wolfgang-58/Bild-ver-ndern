@@ -80,4 +80,4 @@ Nautilus - im Kontextmenü über -Scripte-
 Thunar - direkt im Kontextmenü
 
 Die Betriebsarten sind in ihrer Funktionalität völlig gleichwertig.
-Die Betriebsart wird während der Installation festgelegt.
+
