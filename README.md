@@ -98,8 +98,7 @@ die Dateien in eine x.tar.gz Datei zu packen. Für die PDF Dateien steht ein ver
 
 Nach dem Aufruf steht das Programmfenster sofort zur Verfügung, es besteht die Möglichkeit über die Einstellungen die Startwerte des Programmes festzulegen.
 
-![20211229-programfenster-hilfefenster.svg.png]({{site.baseurl}}/20211229-programfenster-hilfefenster.svg.png)
-
+![Programmfenster]({{site.baseurl}}//20211229-programfenster-hilfefenster.svg.png)
 
 **Bilddateiformate**
 
