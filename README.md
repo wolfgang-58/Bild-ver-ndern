@@ -9,7 +9,8 @@ Damit - Bild verändern - ordentlich arbeiten kann braucht es einige installiert
 
 
 Die benötigten Scripte und Dateien für - Bild verändern - sind:
-bildveraendern.sh Programmscript
+
+- **bildveraendern.sh** Programmscript
 - **bildveraendern.nemo_action** zum einbinden und Steuerung des Scriptes in >Nemo<
 - **xfce-action.txt** zum einbinden und Steuerung des Scriptes in >xfce<
 - **install.sh** zum installieren des Programms
