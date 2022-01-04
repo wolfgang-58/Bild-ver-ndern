@@ -18,7 +18,8 @@ bildveraendern.sh Programmscript
 - **Thema** in diesem Ordner sind GTK-Themen für das Programmscript.
 
 Nach dem Download von Github müssen die Scripe noch ausführbar gemacht werden
-Im Terminal: 
+Im Terminal:
+
 _chmod +x bildveraendern.sh install.sh instcmd.sh_
 
 Für die Installation liegt dem gepacktem Paket eine >install.sh< bei, mit dieser ist die Installation schnell erledigt.
