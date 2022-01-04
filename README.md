@@ -98,7 +98,7 @@ die Dateien in eine x.tar.gz Datei zu packen. Für die PDF Dateien steht ein ver
 
 Nach dem Aufruf steht das Programmfenster sofort zur Verfügung, es besteht die Möglichkeit über die Einstellungen die Startwerte des Programmes festzulegen.
 
-![Programmfenster]({{site.baseurl}}/https://www.linuxmintusers.de/MGalleryItem.php?id=5936)
+![Programmfenster](https://www.linuxmintusers.de/MGalleryItem.php?id=5936)
 
 **Bilddateiformate**
 
