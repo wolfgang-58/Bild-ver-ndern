@@ -10,16 +10,16 @@ Damit - Bild verändern - ordentlich arbeiten kann braucht es einige installiert
 
 
 Die benötigten Scripte und Dateien für - Bild verändern - sind:
-- >bildveraendern.sh< Programmscript
-- >bildveraendern.nemo_action< zum einbinden und Steuerung des Scriptes in >Nemo<
-- >xfce-action.txt< zum einbinden und Steuerung des Scriptes in >xfce<
-- >install.sh< zum installieren des Programms
-- >inst_cmd.sh< das eigentliche Installationscript
-- >Thema< in diesem Ordner sind GTK-Themen für das Programmscript.
+bildveraendern.sh Programmscript
+- **bildveraendern.nemo_action** zum einbinden und Steuerung des Scriptes in >Nemo<
+- **xfce-action.txt** zum einbinden und Steuerung des Scriptes in >xfce<
+- **install.sh** zum installieren des Programms
+- **inst_cmd.sh** das eigentliche Installationscript
+- **Thema** in diesem Ordner sind GTK-Themen für das Programmscript.
 
 Nach dem Download von Github müssen die Scripe noch ausführbar gemacht werden
 Im Terminal: 
-- >chmod +x bildveraendern.sh install.sh inst_cmd.sh 
+_chmod +x bildveraendern.sh install.sh instcmd.sh_
 
 Für die Installation liegt dem gepacktem Paket eine >install.sh< bei, mit dieser ist die Installation schnell erledigt.
 Auch eine >Deinstallation< ist damit möglich.
