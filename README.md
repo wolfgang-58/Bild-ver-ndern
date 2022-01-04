@@ -25,8 +25,8 @@ Für die Installation liegt dem gepacktem Paket eine >install.sh< bei, mit diese
 Auch eine >Deinstallation< ist damit möglich.
 Das Script entweder im Terminal oder mit doppelklick & ausführen starten.
 Unter >xfce< muss die >install.sh< im Terminal gestartet werden:
-
 ./install.sh
+
 Sollte die Installation nicht starten ist eventuell das Terminalprogramm nicht mit dem Desktop kompatibel.
 In diesem Fall kann die Installation, unter jedem Desktop, mit folgendem Befehl gestartet werden:
 ./install.sh -simple
