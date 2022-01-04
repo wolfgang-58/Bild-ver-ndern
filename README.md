@@ -1,6 +1,5 @@
 # Bild verändern 2.24
 Dieses Script funktioniert mit den Dateimanagern Nemo, Caja, Nautilus und Thunar.
-Damit - Bild verändern - ordentlich arbeiten kann braucht es einige installierte Programme auf dem Rechner:
 
 Damit - Bild verändern - ordentlich arbeiten kann braucht es einige installierte Programme auf dem Rechner:
 - **ImageMagick** Softwarepaket zur Erstellung und Bearbeitung von Rastergrafiken.
