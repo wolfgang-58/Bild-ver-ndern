@@ -81,3 +81,7 @@ Thunar - direkt im Kontextmenü
 
 Die Betriebsarten sind in ihrer Funktionalität völlig gleichwertig.
 
+**Verwendung**
+Aufruf des Programms, es können eine oder mehrere Bilddateien unterschiedlicher Formate im Dateimanager markiert werden. Nach betätigen der >rechten Maustaste< ist - Bild verändern - im Kontextmenü direkt oder über Scripte auswählbar.
+
+
