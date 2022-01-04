@@ -118,4 +118,4 @@ Von -Bild verändern- werden die folgenden Dateiformate verarbeitet:
 
 Eine detailierte Beschreibung befindet sich in der Datei:
 
-_Beschreibung -Bild veränder-Version 2.22.pdf_
+_Beschreibung -Bild veränder-Version 2.24.pdf_
