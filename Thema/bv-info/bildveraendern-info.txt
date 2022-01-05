@@ -1,0 +1,61 @@
+Bild verändern
+Version 2.24
+
+Dieses Script funktioniert mit den Dateimanagern Nemo, Caja, Thunar
+und Nautilus als Kontextmenüerweiterung.
+Aufruf des Programms, es können eine oder mehrere Bilddateien 
+unterschiedlicher Formate im Dateimanager markiert werden.
+Nach betätigen der >rechten Maustaste< ist - Bild verändern - 
+im Kontextmenü direkt oder über Scripte auswählbar.
+
+Programmfenster:
+Die getroffenen Einstellungen im Programmfenster sind nur temporär,
+Basiseinstellungen die bei jedem Start ausgewählt sind, müssen in
+den Einstellungen festgelegt werden.
+Im Programmfenster können folgende Einstellungen getroffen werden:
+Skalierung             -> Reduzierung der Pixel in [%]
+Qualität               -> Grad der Komprimierung [%] 
+                          hohe Werte = hohe Qualität
+Appendix               -> Auswahl über Listenfelder (eigene 
+                          Appendixe können in den 
+                          Einstellungen hinzugefügt werden)
+Zielverzeichnis        -> Verzeichnis in welchem die Bilder nach der 
+                          Bearbeitung gespeichert werden
+Datei(en) überschreiben-> bei Aktivierung werden die ausgewählten 
+                          Dateien überschrieben
+PDF-Datei erzeugen     -> bei Aktivierung werden die Bilder in eine
+                          PDF-Datei geschrieben.
+                          (weitere -PDF-Optionen in den Einstellungen)
+Komprimieren           -> bei Aktivierung wird eine *.tar.gz Datei
+                          mit den Bildern erzeugt.
+Exif-Daten löschen     -> bei Aktivierung werden vorhandene
+                          Exif-daten gelöscht (Kamera-, GPS-Daten..etc.)
+
+Einstellungen:
+Hier können die Basiseinstellungen für das Programm vorgenommen werden.
+Mit diesen getroffenen Einstellungen startet das Programm.
+Skalierung             -> Startwert festlegen [0..100%]
+Qualität               -> Startwert festlegen [0..100%]
+Appendixeditor         -> Hier können eigene Dateianhänge erstellt
+                          werden, die Einträge müssen jeweils
+                          in einer Zeile stehen.
+Überschreiben          -> Startwert festlegen
+PDF-Erzeugen           -> Startwert festlegen
+PDF-Verlustfrei        -> bei Aktivierung wird,auf Basis 
+                          der Konvertierung, eine verlustfreie
+                          PDF-Datei erstellt. Diese
+                          enthält jedoch kein 
+                          Inhaltsverzechnis/Lesezeichen.
+                          aktiviert:PDF-Erzeugen
+PDF-Name+Appendix      -> bei Aktivierung wird an die PDF-Datei der 
+                          gewählte Appendix angehängt 
+                          aktiviert:PDF-Erzeugen
+Komprimieren           -> Startwert festlegen
+Exif-Daten Löschen     -> Startwert festlegen
+
+Weiter Infos und Download:
+https://www.linuxmintusers.de/index.php ->Wiki
+https://github.com/wolfgang-58/Bild-veraendern
+
+
+ 

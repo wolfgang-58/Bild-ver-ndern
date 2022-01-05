@@ -1,0 +1,9 @@
+[Nemo Action]
+Name=Bild verändern . . .
+Comment=JPG-Qualität-Skalierung verändern-HEIC->png
+Exec=<bildveraendern.sh %F>
+Icon-Name=bv-icon
+Selection=Any
+Separator=;
+Extensions=nodirs
+#jpg;JPG;png;PNG;webp;heic;jpeg;tif;tiff;gif;bmp

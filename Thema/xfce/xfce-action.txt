@@ -1,0 +1,7 @@
+<action>
+<icon>bv-icon</icon>
+<name>Bild verändern ...</name>
+<command>/home/$USER/.config/Thunar/scripts/bildveraendern.sh %F</command>
+<description>Bilderkonvert</description>
+<image-files/>
+</action>
