@@ -98,8 +98,7 @@ die Dateien in eine x.tar.gz Datei zu packen. Für die PDF Dateien steht eine ve
 
 Nach dem Aufruf steht das Programmfenster sofort zur Verfügung, es besteht die Möglichkeit über die Einstellungen die Startwerte des Programmes festzulegen.
 
-![Programm- Einstellungsfenster](https://user-images.githubusercontent.com/77605776/148033840-fae77103-671b-4323-bb61-939325390777.png)
-
+![Programm - Einstellungsfenster](https://user-images.githubusercontent.com/77605776/148199581-e946ccfd-1f0c-4efd-aec4-0ad16ad25ccb.png)
 
 Von -Bild verändern- werden die folgenden Dateiformate verarbeitet:
 
